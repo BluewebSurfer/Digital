@@ -77,17 +77,6 @@ body {
   }
 
 
-
-
-/* Rounded border */
-hr.rounded {
-    border-top: 1px solid #bbb;
-   
-  }
-
-
-
-/* 
   /* text */
 
   div.a {
@@ -111,22 +100,3 @@ hr.rounded {
     text-align: justify;
   } 
 
-   */
-
- 
-
-
-
-
-
-  /* Footer */
-
-  .footer {
-    position: none;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #8893c3;
-    color: white;
-    text-align: center;
- }
